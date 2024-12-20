@@ -1,5 +1,4 @@
-![1](https://github.com/user-attachments/assets/d86c2e78-af72-4dda-83a0-fa14adba2b1b)# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 20/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -58,8 +57,8 @@
 ![4](https://github.com/user-attachments/assets/945a2438-f8c6-4374-9922-b81b417bc9f7)
 
 
-### Name:M Mohamed Ashfaq 
-### Register Number:24001077
+### Name: PRAJAN.SS
+### Register Number:24009412
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
